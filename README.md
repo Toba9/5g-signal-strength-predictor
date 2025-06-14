@@ -43,6 +43,6 @@ python main.py
 | `requirements.txt` | Python dependencies |
 | `.gitignore` | Ignore files for Git |
 
-## 🙏 Acknowledgements
+## Acknowledgements
 
 This project was assisted with OpenAI's ChatGPT for guidance and explanation. Modified and developed by **Umma Jarin Toba**.
